@@ -1,11 +1,8 @@
+# My Version
+Follow the Github fork links for the originals.
+
 # Tomorrow Theme
 After having spent over five years tweaking and refining an editor theme I've finally decided to release "Tomorrow Theme" - a colourful theme with pastel colours and sensible syntax highlighting.
-
-## Take a look!
-![Ruby Code in Tomorrow Night](https://github.com/ChrisKempson/Tomorrow-Theme/raw/master/Tomorrow-Night.png)
-![Ruby Code in Tomorrow](https://github.com/ChrisKempson/Tomorrow-Theme/raw/master/Tomorrow.png)
-![Ruby Code in Tomorrow Night Eighties](https://github.com/ChrisKempson/Tomorrow-Theme/raw/master/Tomorrow-Night-Eighties.png)
-![Ruby Code in Tomorrow Night Blue](https://github.com/ChrisKempson/Tomorrow-Theme/raw/master/Tomorrow-Night-Blue.png)
 
 ## Language Support
 The theme has been designed to be language independent and should look great with any language. However, if it doesn't, just send me some sample code and I'll fix it!
