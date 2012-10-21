@@ -297,6 +297,7 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
 	call <SID>X("cType", s:yellow, "", "")
 	call <SID>X("cStorageClass", s:purple, "", "")
 	call <SID>X("cConditional", s:purple, "", "")
+	call <SID>X("cLabel", s:purple, "", "")
 	call <SID>X("cRepeat", s:purple, "", "")
 	call <SID>X("cStatement", s:aqua, "", "")
 
@@ -335,7 +336,10 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
 	call <SID>X("pythonInclude", s:purple, "", "")
 	call <SID>X("pythonStatement", s:purple, "", "")
 	call <SID>X("pythonConditional", s:purple, "", "")
+	call <SID>X("pythonRepeat", s:purple, "", "")
 	call <SID>X("pythonFunction", s:blue, "", "")
+	call <SID>X("pythonException", s:purple, "", "")
+	call <SID>X("pythonOperator", s:purple, "", "")
 
 	" JavaScript Highlighting
 	call <SID>X("javaScriptBraces", s:foreground, "", "")
