@@ -300,6 +300,7 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
 	call <SID>X("cLabel", s:purple, "", "")
 	call <SID>X("cRepeat", s:purple, "", "")
 	call <SID>X("cStatement", s:aqua, "", "")
+	call <SID>X("cTodo", s:yellow, s:red, "")
 
 	" C++ Highlighting
 	call <SID>X("cppCast", s:aqua, "", "")
